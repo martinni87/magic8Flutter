@@ -1,4 +1,4 @@
-# flutter_clase_3
+# Practica de flutter para 2º DAM
 
 Tercera clase de flutter
 
